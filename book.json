@@ -1,5 +1,5 @@
 {
-    "title": "蓝莺 IM - 打造新一代智能应用，使用蓝莺ChatAI SDK",
+    "title": "depthsdata 企微智能营销 RPA 机器人",
     "description": "API文档及文章分享",
     "author": "jinhai",
     "output.name": "site",
@@ -45,7 +45,6 @@
         "lanying-grow-ai-expandable-chapters@^0.1.8",
         "lanying-grow-ai-image-captions@^3.1.1"
     ],
-
     "pluginsConfig": {
         "theme-default": {
             "showLevel": false
@@ -56,7 +55,7 @@
             ]
         },
         "github-buttons": {
-            "repo": "maxim-top/gitbook-template",
+            "repo": "zhczhc1990/depthsdata-wiki",
             "types": [
                 "star"
             ],
@@ -68,7 +67,7 @@
             "edit": true
         },
         "tbfed-pagefooter": {
-            "copyright": "© 2019-2024 美信拓扑 | <a href='https://www.lanyingim.com' style='text-decoration:none!important;'>官网</a> | <a href='/sitemap.xml' style='text-decoration:none!important;' target='_blank'>网站地图</a>",
+            "copyright": "© 2019-2024 depthsdata | <a href='http://www.depthsdata.com' style='text-decoration:none!important;'>官网</a> | <a href='/sitemap.xml' style='text-decoration:none!important;' target='_blank'>网站地图</a>",
             "modify_label": "该文件修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
@@ -77,7 +76,7 @@
             "skipFirstH1": true
         },
         "edit-link": {
-            "base": "https://github.com/maxim-top/gitbook-template/blob/master",
+            "base": "https://github.com/zhczhc1990/depthsdata-wiki/blob/master",
             "label": "在GitHub上编辑"
         },
         "favicon": {
@@ -91,34 +90,44 @@
             "style": "flat"
         },
         "sharing": {
-           "douban": true,
-           "facebook": false,
-           "google": false,
-           "hatenaBookmark": false,
-           "instapaper": false,
-           "line": false,
-           "linkedin": false,
-           "messenger": false,
-           "pocket": false,
-           "qq": true,
-           "qzone": false,
-           "stumbleupon": false,
-           "twitter": false,
-           "viber": false,
-           "vk": false,
-           "weibo": true,
-           "whatsapp": false,
-           "all": [
-               "facebook", "google", "twitter",
-               "weibo", "instapaper", "linkedin",
-               "pocket", "stumbleupon", "qq", "qzone","douban","line","whatsapp"
-           ]
-       },
-       "logo":{
-	        "logo": "/assets/logo.png",
+            "douban": true,
+            "facebook": false,
+            "google": false,
+            "hatenaBookmark": false,
+            "instapaper": false,
+            "line": false,
+            "linkedin": false,
+            "messenger": false,
+            "pocket": false,
+            "qq": true,
+            "qzone": false,
+            "stumbleupon": false,
+            "twitter": false,
+            "viber": false,
+            "vk": false,
+            "weibo": true,
+            "whatsapp": false,
+            "all": [
+                "facebook",
+                "google",
+                "twitter",
+                "weibo",
+                "instapaper",
+                "linkedin",
+                "pocket",
+                "stumbleupon",
+                "qq",
+                "qzone",
+                "douban",
+                "line",
+                "whatsapp"
+            ]
+        },
+        "logo": {
+            "logo": "/assets/logo.png",
             "logoStyle": "height: 35px;align: left;",
-            "url": "https://www.lanyingim.com"
-	    },
+            "url": "http://www.depthsdata.com"
+        },
         "intopic-toc": {
             "selector": ".markdown-section h1, .markdown-section h2, .markdown-section h3",
             "mode": "nested",
@@ -132,7 +141,7 @@
             "grid-columns": 3
         },
         "canonical-link": {
-            "baseURL": "https://docs.lanyingim.com"
+            "baseURL": "http://www.depthsdata.com"
         },
         "image-captions": {
             "caption": "_CAPTION_"
@@ -152,9 +161,9 @@
             "tag": "G-EE5J5LB4MD"
         },
         "lanying-grow-ai": {
-          "footer_note": "本文为知识分享和技术探讨之用，涉及到公司或产品（包括但不限于蓝莺IM）介绍内容仅为参考，具体产品和功能特性以官网开通为准。",
-          "lanying_link": "https://lanying.link/3qur4g",
-          "sitemap_hostname": "https://docs.lanyingim.com/"
+            "footer_note": "depthsdata 聚焦企微智能营销系统",
+            "lanying_link": "https://lanying.link/3qur4g",
+            "sitemap_hostname": "http://www.depthsdata.com"
         }
     }
 }
