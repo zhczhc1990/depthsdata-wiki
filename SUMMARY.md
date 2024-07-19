@@ -2,6 +2,7 @@
 
 * [Gitbook Template](README.md)
   * [最新](latest/README.md)
+    * [插图](njds-tech-rpa-51-20240720-1-1-1721404800.md)
     * [DepthsData-RPA应用](depthsdata-rpa-application-51-20240719-4-1-1721394000.md)
     * [无标题](depths-data-digital-marketing-tools-51-20240719-3-1-1721383200.md)
 * [articles](articles/README.md)
