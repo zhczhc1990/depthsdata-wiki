@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Gitbook Template](README.md)
+  * [最新](latest/README.md)
+    * [无标题](depths-data-digital-marketing-tools-51-20240719-3-1-1721383200.md)
 * [articles](articles/README.md)
   * [最新](articles/latest/README.md)
     * [depthsdata数字化营销工具](articles/depthsdata-digital-marketing-tool-51-20240719-2-1-1721377242.md)
