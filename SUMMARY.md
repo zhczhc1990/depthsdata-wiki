@@ -2,6 +2,7 @@
 
 * [Gitbook Template](README.md)
   * [最新](latest/README.md)
+    * [RPA应用](rpa-application-51-20240721-3-1-1721512800.md)
     * [企微自动化](automation-for-enterprise-wechat-51-20240721-2-1-1721502000.md)
     * [企业微信自动化](enterprise-wechat-automation-51-20240721-1-1-1721491200.md)
     * [迪普思数字化营销特点](dipsi-digital-marketing-characteristics-51-20240720-8-1-1721480400.md)
