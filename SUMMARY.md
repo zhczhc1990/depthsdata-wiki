@@ -2,6 +2,7 @@
 
 * [Gitbook Template](README.md)
   * [最新](latest/README.md)
+    * [企业微信自动化营销](wechat-auto-marketing-51-20240720-4-1-1721437200.md)
     * [企业微信RPA](enterprise-wechat-rpa-51-20240720-3-1-1721426400.md)
     * [无标题](intelligent-enterprise-wechat-marketing-51-20240720-2-1-1721415600.md)
     * [插图](njds-tech-rpa-51-20240720-1-1-1721404800.md)
