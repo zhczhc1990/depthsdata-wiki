@@ -2,6 +2,7 @@
 
 * [Gitbook Template](README.md)
   * [最新](latest/README.md)
+    * [迪普思数字化营销特点](dipsi-digital-marketing-characteristics-51-20240720-8-1-1721480400.md)
     * [聚合聊天介绍](chat-aggregation-introduction-51-20240720-7-1-1721469600.md)
     * [无标题](wechat-multiple-operations-51-20240720-6-1-1721458800.md)
     * [如何智能营销企业微信](intelligent-marketing-wechat-51-20240720-5-1-1721448000.md)
