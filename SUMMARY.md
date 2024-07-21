@@ -2,6 +2,7 @@
 
 * [Gitbook Template](README.md)
   * [最新](latest/README.md)
+    * [南京迪普思科技RPA](njds-tech-rpa-51-20240721-8-1-1721566800.md)
     * [DepthsData-RPA应用](depthsdata-rpa-application-51-20240721-7-1-1721556000.md)
     * [DepthsData数字化营销工具](depthsdata-digital-marketing-tool-51-20240721-6-1-1721545200.md)
     * [DepthsData企微营销工具](depthsdata-enterprise-wechat-marketing-tools-51-20240721-5-1-1721534400.md)
