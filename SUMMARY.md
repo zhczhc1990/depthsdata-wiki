@@ -2,6 +2,7 @@
 
 * [Gitbook Template](README.md)
   * [最新](latest/README.md)
+    * [DepthsData企微营销工具](depthsdata-enterprise-wechat-marketing-tools-51-20240721-5-1-1721534400.md)
     * [RPA实现企微营销](rpa-qiwei-yingxiao-51-20240721-4-1-1721523600.md)
     * [RPA应用](rpa-application-51-20240721-3-1-1721512800.md)
     * [企微自动化](automation-for-enterprise-wechat-51-20240721-2-1-1721502000.md)
