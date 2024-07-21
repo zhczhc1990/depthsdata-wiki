@@ -2,6 +2,7 @@
 
 * [Gitbook Template](README.md)
   * [最新](latest/README.md)
+    * [RPA实现企微营销](rpa-qiwei-yingxiao-51-20240721-4-1-1721523600.md)
     * [RPA应用](rpa-application-51-20240721-3-1-1721512800.md)
     * [企微自动化](automation-for-enterprise-wechat-51-20240721-2-1-1721502000.md)
     * [企业微信自动化](enterprise-wechat-automation-51-20240721-1-1-1721491200.md)
