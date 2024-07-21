@@ -2,6 +2,7 @@
 
 * [Gitbook Template](README.md)
   * [最新](latest/README.md)
+    * [无标题](enterprise-wechat-automation-marketing-51-20240722-3-1-1721599200.md)
     * [企业微信RPA](enterprise-wechat-rpa-51-20240722-2-1-1721588400.md)
     * [智能企微营销](intelligent-enterprise-wechat-marketing-51-20240722-1-1-1721577600.md)
     * [南京迪普思科技RPA](njds-tech-rpa-51-20240721-8-1-1721566800.md)
@@ -21,6 +22,7 @@
     * [无标题](intelligent-enterprise-wechat-marketing-51-20240720-2-1-1721415600.md)
     * [插图](njds-tech-rpa-51-20240720-1-1-1721404800.md)
     * [DepthsData-RPA应用](depthsdata-rpa-application-51-20240719-4-1-1721394000.md)
+  * [20240719](20240719/README.md)
     * [无标题](depths-data-digital-marketing-tools-51-20240719-3-1-1721383200.md)
 * [articles](articles/README.md)
   * [最新](articles/latest/README.md)
