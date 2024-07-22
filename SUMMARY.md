@@ -16,7 +16,6 @@
   * [企业微信自动化营销](enterprise-wechat-automation-marketing-51-20240722-3-1-1721599200.md)
     * [企业微信RPA](enterprise-wechat-rpa-51-20240722-2-1-1721588400.md)
     * [智能企微营销](intelligent-enterprise-wechat-marketing-51-20240722-1-1-1721577600.md)
-    * [南京迪普思科技RPA与聚合聊天](njds-tech-rpa-51-20240721-8-1-1721566800.md)
     * [DepthsData-RPA应用](depthsdata-rpa-application-51-20240721-7-1-1721556000.md)
     * [DepthsData数字化营销工具](depthsdata-digital-marketing-tool-51-20240721-6-1-1721545200.md)
     * [DepthsData企微营销工具](depthsdata-enterprise-wechat-marketing-tools-51-20240721-5-1-1721534400.md)
