@@ -13,7 +13,7 @@
     * [depthsdata-RPA应用](articles/depthsdata-rpa-apply-51-20240719-2-2-1721377257.md)
     * [南京迪普思科技RPA](articles/njds-tech-rpa-51-20240719-2-3-1721377270.md)
     * [迪普思数字化营销特点](dipsi-digital-marketing-characteristics-51-20240720-8-1-1721480400.md)
-  * [企业微信营销](latest/README.md)
+  * [企业微信营销](enterprise-wechat-automation-marketing-51-20240722-3-1-1721599200.md)
     * [企业微信自动化营销](enterprise-wechat-automation-marketing-51-20240722-3-1-1721599200.md)
     * [企业微信RPA](enterprise-wechat-rpa-51-20240722-2-1-1721588400.md)
     * [智能企微营销](intelligent-enterprise-wechat-marketing-51-20240722-1-1-1721577600.md)
