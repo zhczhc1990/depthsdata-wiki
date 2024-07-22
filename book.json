@@ -1,7 +1,7 @@
 {
     "title": "DepthsData 企微智能营销 RPA 机器人",
     "description": "API文档及文章分享",
-    "author": "jinhai",
+    "author": "zhanghaochen",
     "output.name": "site",
     "language": "zh-hans",
     "gitbook": "3.2.3",
@@ -76,8 +76,8 @@
             "skipFirstH1": true
         },
         "edit-link": {
-            "base": "https://github.com/zhczhc1990/depthsdata-wiki/blob/master",
-            "label": "在GitHub上编辑"
+            "base": "https://www.depthsdata.com",
+            "label": "回到迪普思官网"
         },
         "favicon": {
             "shortcut": "/assets/favicon.ico",
@@ -150,7 +150,7 @@
             "data": [
                 {
                     "name": "keywords",
-                    "content": "企业微信营销\n聚合聊天"
+                    "content": "企业微信营销\n聚合聊天 RPA 自动化"
                 }
             ]
         },
@@ -162,7 +162,7 @@
         },
         "lanying-grow-ai": {
             "footer_note": "DepthsData 聚焦企微智能营销系统",
-            "lanying_link": "https://lanying.link/3qur4g",
+            "lanying_link": "",
             "sitemap_hostname": "http://www.depthsdata.com"
         }
     }
