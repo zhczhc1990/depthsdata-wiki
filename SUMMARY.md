@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Gitbook Template](README.md)
-  * [最新](latest/README.md)
+* [迪普思](README.md)
+  * [企业微信营销](latest/README.md)
     * [无标题](enterprise-wechat-automation-marketing-51-20240722-3-1-1721599200.md)
     * [企业微信RPA](enterprise-wechat-rpa-51-20240722-2-1-1721588400.md)
     * [智能企微营销](intelligent-enterprise-wechat-marketing-51-20240722-1-1-1721577600.md)
