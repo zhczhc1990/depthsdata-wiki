@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Gitbook Template](README.md)
+* [Depths  -RPA产品介绍](README.md)
   * [最新](latest/README.md)
     * [无标题](enterprise-wechat-automation-marketing-51-20240722-3-1-1721599200.md)
     * [企业微信RPA](enterprise-wechat-rpa-51-20240722-2-1-1721588400.md)
@@ -47,7 +47,7 @@
     * [企业微信RPA](articles/enterprise-wechat-rpa-51-20240719-2-5-1721377320.md)
     * [企业微信自动化营销](articles/enterprise-wechat-automation-marketing-51-20240719-2-6-1721377333.md)
   * [20240719](articles/20240719/README.md)
-    * [如何智能营销企鹅也维系](articles/intelligent-marketing-penguin-maintenance-51-20240719-2-7-1721377348.md)
+    * [如何智能营销企业微信](articles/intelligent-marketing-penguin-maintenance-51-20240719-2-7-1721377348.md)
     * [企业微信如何一次操作多个](articles/wechat-multiple-operations-51-20240719-2-8-1721377366.md)
     * [无标题](articles/51-20240719-2-9-1721377380.md)
     * [企业微信自动化](articles/enterprise-wechat-automation-51-20240719-2-10-1721377411.md)
