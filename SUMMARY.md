@@ -6,7 +6,7 @@
     * [DepthsData数字化营销工具](depths-data-digital-marketing-tools-51-20240719-3-1-1721383200.md)
     * [DepthsData数字化营销工具](articles/depthsdata-digital-marketing-tool-51-20240719-2-1-1721377242.md)
     * [DepthsData-RPA应用](articles/depthsdata-rpa-apply-51-20240719-2-2-1721377257.md)
-    * [南京迪普思科技RPA](njds-tech-rpa-51-20240720-1-1-1721404800.md)
+    * [南京迪普思科技RPA介绍](njds-tech-rpa-51-20240720-1-1-1721404800.md)
     * [南京迪普思科技RPA](articles/njds-tech-rpa-51-20240719-2-3-1721377270.md)
     * [depthsdata企微营销工具](articles/depthsdata-enterprise-wechat-marketing-tools-51-20240719-2-14-1721377471.md)
     * [depthsdata数字化营销工具](articles/depthsdata-digital-marketing-tool-51-20240719-2-1-1721377242.md)
