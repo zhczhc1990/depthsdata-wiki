@@ -209,3 +209,7 @@
     max-height: calc( 100vh - 70px );
     overflow-y: auto;
 }
+
+.gitbook-link {
+    display: none !important;
+}
