@@ -2,6 +2,7 @@
 
 * [Depths  -RPA产品介绍](njds-tech-rpa-51-20240721-8-1-1721566800.md)
   * [DepthsData介绍](latest/README.md)
+    * [微信自动回客户](weixin-zhidong-hui-kehu-51-20240728-14-1-1722164400.md)
     * [微信自动回复](weixin-zi-dong-hui-fu-51-20240728-13-1-1722160800.md)
     * [微信自动引流](wx-automatic-traffic-51-20240728-12-1-1722157200.md)
     * [微信自动添加好友](wechat-automatic-friend-addition-51-20240728-11-1-1722153600.md)
@@ -21,6 +22,7 @@
     * [DepthsData企微营销工具](articles/depthsdata-enterprise-wechat-marketing-tools-51-20240719-2-14-1721377471.md)
     * [DepthsData数字化营销工具](articles/depthsdata-digital-marketing-tool-51-20240719-2-1-1721377242.md)
     * [DepthsData-RPA应用](articles/depthsdata-rpa-apply-51-20240719-2-2-1721377257.md)
+  * [20240719](20240719/README.md)
     * [南京迪普思科技RPA](articles/njds-tech-rpa-51-20240719-2-3-1721377270.md)
   * [20240720](20240720/README.md)
     * [迪普思数字化营销特点](dipsi-digital-marketing-characteristics-51-20240720-8-1-1721480400.md)
@@ -48,6 +50,7 @@
     * [企微自动化](articles/enterprise-wechat-automation-51-20240719-2-11-1721377426.md)
     * [RPA应用](articles/rpa-application-51-20240719-2-12-1721377440.md)
     * [RPA实现企微营销](articles/rpa-implementing-enterprise-wechat-marketing-51-20240719-2-13-1721377454.md)
+* [](README.md)
 * [](README.md)
 * [](README.md)
 * [](README.md)
