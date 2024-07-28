@@ -2,6 +2,7 @@
 
 * [Depths  -RPA产品介绍](njds-tech-rpa-51-20240721-8-1-1721566800.md)
   * [DepthsData介绍](latest/README.md)
+    * [企微自动回客户](qiwei-automatic-reply-51-20240728-4-1-1722131880.md)
     * [DepthsData-RPA应用](depthsdata-rpa-application-51-20240719-4-1-1721394000.md)
     * [DepthsData数字化营销工具](depths-data-digital-marketing-tools-51-20240719-3-1-1721383200.md)
     * [DepthsData数字化营销工具](articles/depthsdata-digital-marketing-tool-51-20240719-2-1-1721377242.md)
@@ -37,3 +38,4 @@
     * [企微自动化](articles/enterprise-wechat-automation-51-20240719-2-11-1721377426.md)
     * [RPA应用](articles/rpa-application-51-20240719-2-12-1721377440.md)
     * [RPA实现企微营销](articles/rpa-implementing-enterprise-wechat-marketing-51-20240719-2-13-1721377454.md)
+* [](README.md)
