@@ -2,6 +2,7 @@
 
 * [Depths  -RPA产品介绍](njds-tech-rpa-51-20240721-8-1-1721566800.md)
   * [DepthsData介绍](latest/README.md)
+    * [企微智能回复](qiwei-zhineng-huifu-51-20240816-21-1-1723809600.md)
     * [企微自动截流](qiwei-automatic-water-catch-51-20240816-20-1-1723806000.md)
     * [企微朋友圈自动发](qiwei-pengyou-quan-zidongfa-51-20240816-19-1-1723802400.md)
     * [企微朋友圈](enterprise-wechat-circle-51-20240816-18-1-1723798800.md)
@@ -21,6 +22,7 @@
     * [微信自动回客户](weixin-zi-dong-hui-fu-ke-hu-51-20240816-4-1-1723748400.md)
     * [微信自动回复](weixin-zidong-hui-fu-51-20240816-3-1-1723744800.md)
     * [微信自动引流](weixin-automatic-lead-generation-51-20240816-2-1-1723741200.md)
+  * [20240816](20240816/README.md)
     * [微信自动添加好友](wechat-auto-add-friends-51-20240816-1-1-1723737600.md)
   * [20240815](20240815/README.md)
     * [企微自动化营销](automated-marketing-wechat-51-20240815-24-1-1723734000.md)
@@ -525,6 +527,7 @@
     * [企微自动化](articles/enterprise-wechat-automation-51-20240719-2-11-1721377426.md)
     * [RPA应用](articles/rpa-application-51-20240719-2-12-1721377440.md)
     * [RPA实现企微营销](articles/rpa-implementing-enterprise-wechat-marketing-51-20240719-2-13-1721377454.md)
+* [](README.md)
 * [](README.md)
 * [](README.md)
 * [](README.md)
