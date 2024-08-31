@@ -71,7 +71,7 @@
             "skipFirstH1": true
         },
         "edit-link": {
-            "base": "https://www.depthsdata.com",
+            "base": "https://github.com/zhczhc1990/depthsdata-wiki/blob/master",
             "label": "回到迪普思官网"
         },
         "favicon": {
@@ -145,7 +145,7 @@
             "data": [
                 {
                     "name": "keywords",
-                    "content": "企业微信营销\n聚合聊天 RPA 自动化"
+                    "content": "企业微信营销\n聚合聊天\n聚合托管\n企微自动化"
                 }
             ]
         },
